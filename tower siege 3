@@ -1,0 +1,27 @@
+class tower siege
+
+var score =0;
+text("SCORE:"+score,750,40);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
